@@ -4,10 +4,10 @@
 
 Subo Proyectos tanto personales como trabajos universitarios
 
-Habilidades: JAVA / Html /.../
+Habilidades: JAVA / Html / Css /.../
 
 - 🔭 Estoy trabajando en Aprender lenguajes 
-- 🌱 Estoy aprendiendo  Css Js
+- 🌱 Estoy aprendiendo  Java Js
 - 📫 Cómo contactarme: Sebastian.vegar2015@gmail.com 
 
 

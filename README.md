@@ -1,93 +1,99 @@
-### Hola 👋, Mi nombre es Sebastian Vega
-#### Estudiante Universitario-UPTC
-![Estudiante Universitario-UPTC](https://images7.alphacoders.com/133/1337527.png)
+<h1 align="center">Hola 👋, Soy Sebastian Vega</h1>
+<h3 align="center">Estudiante de Ingeniería de Sistemas - UPTC</h3>
 
-Subo Proyectos tanto personales como trabajos universitarios
+<p align="center">
+  <img src="https://images7.alphacoders.com/133/1337527.png" alt="Estudiante Universitario-UPTC" width="400"/>
+</p>
 
-Habilidades: JAVA / Html / Css /Phyton/.../
+<p align="center">
+  Subo proyectos tanto personales como trabajos universitarios. Mi enfoque está en el aprendizaje continuo y el desarrollo de soluciones tecnológicas que combinen creatividad, utilidad y buen diseño.
+</p>
 
-- 🔭 Estoy trabajando en Aprender lenguajes 
-- 🌱 Estoy aprendiendo  Js
-- 📫 Cómo contactarme: Sebastian.vegar2015@gmail.com 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SebastianVega4)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/SebastianVegaR/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/SebastianVegaR//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Sebas123Vega)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCjOoZjxR_BltZN-mm4sk49Q?view_as=subscriber)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sebastianvegar.wixsite.com/sebastianvega)  
+### 🚀 Acerca de mí
+
+- 🔭 Actualmente estoy enfocado en aprender más sobre lenguajes de programación y frameworks modernos.
+- 🌱 En este momento estoy aprendiendo JavaScript, Angular y frameworks de backend.
+- 📫 Puedes contactarme en: **Sebastian.vegar2015@gmail.com**
+- 🌐 Página personal (en desarrollo): [sebastianvegar.wixsite.com/sebastianvega](https://sebastianvegar.wixsite.com/sebastianvega)
+
+---
+
+### 🛠️ Habilidades Técnicas
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="Visual Studio Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
+</div>
+
+
+
+---
+
+### 🌐 Redes Sociales y Contacto
+
+<p align="left">
+  <a href="https://github.com/SebastianVega4" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30" alt="GitHub"/></a>
+  <a href="https://www.facebook.com/SebastianVegaR" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="30" alt="Facebook"/></a>
+  <a href="https://www.instagram.com/SebastianVegaR/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="30" alt="Instagram"/></a>
+  <a href="https://twitter.com/Sebas123Vega" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" alt="Twitter"/></a>
+  <a href="https://www.youtube.com/channel/UCjOoZjxR_BltZN-mm4sk49Q" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" height="30" alt="YouTube"/></a>
+  <a href="https://co.linkedin.com/in/johan-sebastian-vega-ruiz-b1292011b" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" alt="LinkedIn"/></a>
+  <a href="https://linktr.ee/sebastian.vegar" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="32" alt="Linktree"/></a>
+</p>
+
+---
+
+### 📊 Estadísticas
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SebastianVega4.SebastianVega4&right_color=brown"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SebastianVega4&theme=tokyo-night&radius=16&area=true" height="250" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SebastianVega4&show_icons=true&theme=github_dark&locale=es&hide_border=false" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianVega4&layout=compact&theme=github_dark&hide_border=false" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=SebastianVega4&locale=es&mode=daily&theme=github_dark&hide_border=false" height="150"/>
 </div>
 
-<div align="left">
-  <a href="https://co.linkedin.com/in/johan-sebastian-vega-ruiz-b1292011b" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://linktr.ee/sebastian.vegar" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
-  </a>
-</div>
-<h2 align="left">I code with</h2>
+---
 
-###
+### 🏆 Trofeos
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="40" alt="phpstorm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SebastianVega4&theme=dark_lover&column=-1&row=1&margin-w=5&margin-h=8&no-bg=true" height="130"/>
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="40" alt="tomcat logo"  />
-</div>
+---
 
-<br clear="both">
+### 🐍 Actividad reciente
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
 </picture>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SebastianVega4&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=SebastianVega4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=es&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SebastianVega4&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=SebastianVega4&locale=es&mode=daily&theme=github_dark&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=SebastianVega4&theme=dark_lover&column=-1&row=1&margin-w=5&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31fgnblui7xd3q6qghygkuxy5jme&unique={true|1|on|yes})
+---
+
+### 🎧 Lo que escucho en Spotify
+
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31fgnblui7xd3q6qghygkuxy5jme&unique=1)
+
+---
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SebastianVega4.SebastianVega4&right_color=brown" />
+</p>

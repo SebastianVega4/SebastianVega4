@@ -16,7 +16,7 @@
 - 🔭 Actualmente estoy enfocado en aprender más sobre lenguajes de programación y frameworks modernos.
 - 🌱 En este momento estoy aprendiendo JavaScript, Angular y frameworks de backend.
 - 📫 Puedes contactarme en: **Sebastian.vegar2015@gmail.com**
-- 🌐 Página personal (en desarrollo): [sebastianvegar.wixsite.com/sebastianvega](https://sebastianvegar.wixsite.com/sebastianvega)
+- 🌐 Página personal (en desarrollo): [sebastianvegar.wixsite.com/sebastianvega](https://sebastianvega.site)
 
 ---
 

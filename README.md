@@ -1,12 +1,12 @@
-<h1 align="center">Hola 👋, Soy Sebastian Vega</h1>
-<h3 align="center">Estudiante de Ingeniería de Sistemas - UPTC</h3>
+<h1 align="center">Soy Johan Sebastian Vega Ruiz</h1>
+<h3 align="center">Ingeniero de Sistemas y Computación - UPTC Sogamoso</h3>
 
 <p align="center">
-  <img src="https://images7.alphacoders.com/133/1337527.png" alt="Estudiante Universitario-UPTC" width="400"/>
+  <img src="Banner.jpeg" alt="Banner Johan Sebastian Vega Ruiz" width="100%"/>
 </p>
 
 <p align="center">
-  Subo proyectos tanto personales como trabajos universitarios. Mi enfoque está en el aprendizaje continuo y el desarrollo de soluciones tecnológicas que combinen creatividad, utilidad y buen diseño.
+  Desarrollo soluciones tecnológicas que transforman <b>ideas en impacto</b>. Apasionado por el aprendizaje continuo, el desarrollo web y la creación de aplicaciones modernas con enfoque en utilidad y diseño.
 </p>
 
 ---

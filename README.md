@@ -90,7 +90,7 @@
 
 ### 🎧 Lo que escucho en Spotify
 
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31fgnblui7xd3q6qghygkuxy5jme&unique=1)
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31fgnblui7xd3q6qghygkuxy5jme)
 
 ---
 
